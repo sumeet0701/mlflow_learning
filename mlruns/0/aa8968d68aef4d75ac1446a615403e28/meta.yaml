@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sumeet%20Maheshwari/Desktop/end%20to%20end%20project/mlflow_learning/mlruns/0/aa8968d68aef4d75ac1446a615403e28/artifacts
+end_time: 1696679956399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa8968d68aef4d75ac1446a615403e28
+run_name: beautiful-dove-215
+run_uuid: aa8968d68aef4d75ac1446a615403e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696679949122
+status: 3
+tags: []
+user_id: Sumeet Maheshwari

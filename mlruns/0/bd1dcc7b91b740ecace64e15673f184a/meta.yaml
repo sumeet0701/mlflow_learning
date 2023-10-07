@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sumeet%20Maheshwari/Desktop/end%20to%20end%20project/mlflow_learning/mlruns/0/bd1dcc7b91b740ecace64e15673f184a/artifacts
+end_time: 1696679883336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd1dcc7b91b740ecace64e15673f184a
+run_name: nebulous-bug-169
+run_uuid: bd1dcc7b91b740ecace64e15673f184a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696679883230
+status: 3
+tags: []
+user_id: Sumeet Maheshwari
